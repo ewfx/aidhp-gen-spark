@@ -22,9 +22,13 @@ Enhance hyper personalization by analysing customer profile, social media activi
 📹 [Video Demo](https://drive.google.com/file/d/10ADNtvQYxwn-M5IgftG2cnRWTmu9xzCa/view?usp=sharing) 
 🖼️ Screenshots:
 
+# Bank products curated through LLM and recommendation engine
 ![image](https://github.com/user-attachments/assets/a198f9be-84aa-4d7d-9393-828610f1c6ff)
 
+# Partnered merchants products curated through LLM and recommendation engine
 ![image](https://github.com/user-attachments/assets/59303595-0e4a-4f3f-9d60-12e4974af543)
+
+# Alert push notifications by Gen AI during active hours of the users
 ![image](https://github.com/user-attachments/assets/139fffd5-f754-4602-85e3-af3aca766676)
 
 
