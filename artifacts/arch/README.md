@@ -1,3 +1,3 @@
-Replace this file with a document that describes the architecture and design of your solution architecture. This may include
-    - An architecture drawing exported into a png/jpeg format image
-    - A document in pdf or md format that describes your solution
+### Architecture diagram
+
+![hyper-personalization - architecture diagram](https://github.com/user-attachments/assets/5e2f8dd4-881a-4387-9f0e-3aa783e52d20)
