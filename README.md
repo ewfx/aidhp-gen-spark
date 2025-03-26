@@ -55,22 +55,41 @@ Using AI & real-time data to tailor financial services to individual users
 ## 🏃 How to Run
 1. Clone the repository  
    ```sh
-   git clone https://github.com/your-repo.git
+   git clone https://github.com/ewfx/aidhp-gen-spark
    ```
-2. Install dependencies  
+2. Install dependencies for frontend
    ```sh
-   npm install  # or pip install -r requirements.txt (for Python)
+   npm install  
    ```
-3. Run the project  
+3. Run the frontend
    ```sh
-   npm start  # or python app.py
+   npm start  
+   ```
+4. Install the dependencies for recommendation engine server
+   ```sh
+   pip install 
+   ```
+5. Run the recommendation engine server
+   ```sh
+   python app.py
+   ```
+6. Install the dependencies for  Gen AI server
+   ```sh
+   pip install
+   ```
+7. Run the dependencies for  Gen AI server
+   ```sh
+   python recommendation.py
    ```
 
 ## 🏗️ Tech Stack
-- 🔹 Frontend: React 
-- 🔹 Backend: FastAPI / Flask / Deepseek
-- 🔹 Database: MongoDb
-- 🔹 Other: Ollama
+- 🔹 Frontend: React/Vite/Tailwind
+- 🔹 Backend: Flask/FastAPI
+- 🔹 LLM Model: Llama-3.2/Deepseek R1
+- 🔹 Data Embedding: Bert/GNN
+- 🔹 Model: wide&deep model
+- 🔹 Databse: MongoDB
+- 🔹 Other: Ollama,tensorflow,Faker
 
 ## 👥 Team
 - **Vedant Singh** - [GitHub](https://github.com/vedant-11) | [LinkedIn](https://www.linkedin.com/in/vedant-singh-a7145020a/)
