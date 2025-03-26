@@ -71,7 +71,7 @@ Using AI & real-time data to tailor financial services to individual users
    ```
 5. Run the recommendation engine server
    ```sh
-   python app.py
+   python recommendation.py
    ```
 6. Install the dependencies for  Gen AI server
    ```sh
@@ -79,7 +79,7 @@ Using AI & real-time data to tailor financial services to individual users
    ```
 7. Run the dependencies for  Gen AI server
    ```sh
-   python recommendation.py
+   python app.py
    ```
 
 ## 🏗️ Tech Stack
