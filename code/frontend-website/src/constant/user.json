@@ -1,0 +1,45 @@
+{
+  "customer_id": "abcd12",
+  "name": "Corom Torono",
+  "age": 35,
+  "gender": "Male",
+  "education": "MBA",
+  "occupation": "Software Engineer",
+  "income": 90000,
+  "location": "New York",
+  "timestamp": "14:59",
+  "device_type": "Mobile",
+  "notification": [
+    {
+      "active-time": "19:47",
+      "type": "Reminder",
+      "message": "Pay credit card bill"
+    },
+    {
+      "active-time": "19:45",
+      "type": "Offer",
+      "message": "Earn extra savings on monthly spending"
+    }
+  ],
+  "interests": ["Tech", "Shopping", "Travel"],
+  "preferences": ["Cashback", "Loans"],
+  "financial_needs": ["Credit Card"],
+  "social_media_sentiment": [
+    {
+      "platform": "Twitter",
+      "post_id": "abc123",
+      "content": "Looking for a low interest housing loan.",
+      "timestamp": "2025-03-25 11:00:00",
+      "sentiment_score": 0.92,
+      "intent": "Credit Card"
+    },
+    {
+      "platform": "Instagram",
+      "post_id": "def456",
+      "content": "Need a debit card with 0 fees",
+      "timestamp": "2025-03-25 10:55:00",
+      "sentiment_score": 0.88,
+      "intent": "Debit Card"
+    }
+  ]
+}
