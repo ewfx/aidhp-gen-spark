@@ -1,4 +1,4 @@
-# 🚀 Project Name
+# 🚀 Genspark Hyper Personalization Recommendation
 
 ## 📌 Table of Contents
 - [Introduction](#introduction)
@@ -56,5 +56,8 @@ Describe the major technical or non-technical challenges your team encountered.
 - 🔹 Other: OpenAI API / Twilio / Stripe
 
 ## 👥 Team
-- **Your Name** - [GitHub](#) | [LinkedIn](#)
-- **Teammate 2** - [GitHub](#) | [LinkedIn](#)
+- **Vedant Singh** - [GitHub](https://github.com/vedant-11) | [LinkedIn](#)
+- **Harsh Thakur** - [GitHub](https://github.com/HarshThakur-08) | [LinkedIn](https://www.linkedin.com/in/harsh-thakur-b18b7920a/)
+- **Aryan Kharbanda** - [GitHub](#) | [LinkedIn](#)
+- **Tanishq Kakkar** - [GitHub](#) | [LinkedIn](#)
+- **Sandhya Adabala** - [GitHub](#) | [LinkedIn](#)
