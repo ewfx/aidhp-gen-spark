@@ -25,6 +25,8 @@ Enhance hyper personalization by analysing customer profile, social media activi
 ![image](https://github.com/user-attachments/assets/a198f9be-84aa-4d7d-9393-828610f1c6ff)
 
 ![image](https://github.com/user-attachments/assets/59303595-0e4a-4f3f-9d60-12e4974af543)
+![image](https://github.com/user-attachments/assets/139fffd5-f754-4602-85e3-af3aca766676)
+
 
 
 ## 💡 Inspiration
