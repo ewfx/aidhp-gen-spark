@@ -75,5 +75,5 @@ Using AI & real-time data to tailor financial services to individual users
 - **Vedant Singh** - [GitHub](https://github.com/vedant-11) | [LinkedIn](https://www.linkedin.com/in/vedant-singh-a7145020a/)
 - **Harsh Thakur** - [GitHub](https://github.com/HarshThakur-08) | [LinkedIn](https://www.linkedin.com/in/harsh-thakur-b18b7920a/)
 - **Aryan Kharbanda** - [GitHub](https://github.com/aryankharbanda) | [LinkedIn](https://www.linkedin.com/in/aryan-kharbanda-a6552a206/)
-- **Tanishq Kakkar** - [GitHub](#) | [LinkedIn](#)
+- **Tanishq Kakkar** - [GitHub](https://github.com/tanishq1308) | [LinkedIn](https://www.linkedin.com/in/tanishq-kakkar-663100201)
 - **Sandhya Adabala** - [GitHub](https://github.com/sandhyaadabala) | [LinkedIn](https://www.linkedin.com/in/sandhya-adabala-7b44534/)
