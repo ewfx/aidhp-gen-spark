@@ -11,7 +11,7 @@
 - [Tech Stack](#tech-stack)
 - [Team](#team)
 
----
+----
 
 ## 🎯 Introduction
 Tailor highly personalized experiences and financial services to online banking customers that cater to their unique preferences. 
