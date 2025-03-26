@@ -19,7 +19,7 @@ Enhance hyper personalization by analysing customer profile, social media activi
 
 
 ## 🎥 Demo
-📹 [Video Demo](https://drive.google.com/file/d/10ADNtvQYxwn-M5IgftG2cnRWTmu9xzCa/view?usp=sharing) (if applicable)  
+📹 [Video Demo](https://drive.google.com/file/d/10ADNtvQYxwn-M5IgftG2cnRWTmu9xzCa/view?usp=sharing) 
 🖼️ Screenshots:
 
 ![image](https://github.com/user-attachments/assets/a198f9be-84aa-4d7d-9393-828610f1c6ff)
